@@ -31,7 +31,3 @@ Abre [http://localhost:5173/](http://localhost:5173/) en tu navegador para verla
 ##  Despliegue
 
 Este proyecto está pensado para ser desplegado en plataformas como **GitHub Pages**, **Netlify** o **Vercel**.
-
-> Si necesitas ayuda para configurarlo, dime dónde lo vas a desplegar y te ayudo paso a paso.
-
----
